@@ -1,6 +1,6 @@
 # 法鼓全集 聖嚴法師 電子書 epub
 
-這裏的電子書是根據 法鼓全集 數位隨身版 http://ddc.shengyen.org/mobile/ 整理，僅提供給各位菩薩個人學習使用。版權所有：法鼓山文教基金會。
+這裏的電子書是根據 法鼓全集 數位隨身版 http://ddc.shengyen.org/mobile/ 整理，僅提供給各位菩薩個人學習使用，嚴禁商業目的使用。版權所有：法鼓山文教基金會。
 
 根據末學的興趣，目前只整理了部分書籍，提供了epub版本。如需其他書目，請開Issue，或聯繫末學xianyin.shi at gmail dot com。或請先移步 http://ddc.shengyen.org/mobile/ 閱讀。
 
