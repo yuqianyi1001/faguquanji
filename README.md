@@ -2,14 +2,16 @@
 
 這裏的電子書是根據 法鼓全集 數位隨身版 http://ddc.shengyen.org/mobile/ 整理，僅提供給各位菩薩個人學習使用，嚴禁商業目的使用。版權所有：法鼓山文教基金會。
 
-根據末學的興趣，目前只整理了部分書籍，提供了epub版本。如需其他書目，請開Issue，或聯繫末學xianyin.shi at gmail dot com。或請先移步 http://ddc.shengyen.org/mobile/ 閱讀。
+根據末學的興趣，目前只整理了部分書籍，提供了epub版本。如需其他書目，請開Issue，或聯繫末學xianyin.shi at gmail dot com (末學還是在家人，仰慕出家法師們，所以在email中用了shi)。或請先移步 http://ddc.shengyen.org/（適合電腦，平板閱讀） 或 http://ddc.shengyen.org/mobile/ （適合手機閱讀） 閱讀。
+
+法鼓全集至少有3個版本，最早的一個光盤版，2005版和2022版，書目和編排略不相同，如想要對比，請參考[目錄文件（含對比）](https://github.com/yuqianyi1001/faguquanji/blob/master/%E7%9B%AE%E9%8C%84%EF%BC%88%E5%90%AB%E6%AD%B7%E5%8F%B2%E7%89%88%E6%9C%AC%EF%BC%89.xlsx)。目前的目錄結構以根據2022版進行調整。另，部分書本內容也有調整（待進一步說明）。
 
 # 目錄 - 表格版(2022)
 
 ## 第一輯 教義論述類
 | 分類 | 書名 | EPub | Mobi | PDF | 
 | --- | --------- | --- |--- | --- |
-| 01-01  | 明末佛教研究  | Yes  | 
+| 01-01 | 明末佛教研究  | Yes  | 
 | 01-02 | 大乘止觀法門之研究 | Yes  | Yes  | Yes  | 
 | 01-03 | 戒律學綱要 | Yes | 
 | 01-04 | 比較宗教學| Yes |
